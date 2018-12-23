@@ -8,6 +8,7 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         print("Hello ERic. I'm editing this on Mac now. ");
+        print("I've just edited this on PC.");
         
     }
 
